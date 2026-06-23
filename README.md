@@ -107,7 +107,7 @@ sashank = {
 - ⚡ 35% reduction in response latency post AWS deployment
 - 🏗️ Scalable NLP architecture with contextual response generation
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/SashankMouli)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/SashankMouli/Tourist-ChatBot)
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ sashank = {
 - 🚨 Automated anomaly flagging across financial data
 - 🗃️ Smart transaction categorisation engine
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/SashankMouli)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/SashankMouli/Fintrack-Financial-Dashboard-UI)
 
 </td>
 <td width="50%" valign="top">
