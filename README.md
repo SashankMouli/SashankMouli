@@ -24,7 +24,7 @@
 
 ```python
 sashank = {
-    "name"       : "Seshanka Mouli Gunturu",
+    "name"       : "Sashank Mouli Gunturu",
     "title"      : "AI / ML Engineer",
     "location"   : "Visakhapatnam, Andhra Pradesh, India 🇮🇳",
     "education"  : "B.Tech CSE @ JNTUGV (CGPA: 8.02/10)",
@@ -214,6 +214,16 @@ sashank = {
 > *"Build systems that think. Ship products that matter."*
 
 </div>
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SashankMouli/SashankMouli/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SashankMouli/SashankMouli/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" 
+    src="https://raw.githubusercontent.com/SashankMouli/SashankMouli/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
