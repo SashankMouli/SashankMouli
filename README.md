@@ -136,7 +136,7 @@ sashank = {
 `Python` `PyTorch` `CNN` `Deep Learning`
 
 - 🛡️ Predictive analysis for 3 critical physical system behaviors
-- 🔬 CNN-based physical system dynamics modelling
+- 🔬 Implemented Physics Informed Neural Networks (PINNs)
 - 📉 Reduced anomaly false-positive rates in AI workflows
 
 </td>
