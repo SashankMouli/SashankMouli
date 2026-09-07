@@ -25,8 +25,8 @@
 ```python
 sashank = {
     "name"       : "Sashank Mouli Gunturu",
-    "title"      : "AI / ML Engineer",
-    "location"   : "Visakhapatnam, Andhra Pradesh, India 🇮🇳",
+    "title"      : "AI/ML Engineer",
+    "location"   : "Hyderabad, Telangana, India 🇮🇳",
     "education"  : "B.Tech CSE @ JNTUGV (CGPA: 8.02/10)",
     "experience" : "AI/ML Intern @ DRDL — Defence Research & Development Laboratory",
     "focus"      : ["Computer Vision", "NLP", "Deep Learning", "Digital Twin"],
